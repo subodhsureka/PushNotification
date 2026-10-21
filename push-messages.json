@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "code": "RELEASE-22",
+      "enabled": true,
+      "message": "Robo Commodity 365 v22 goes live on [EVENTDATE]. You are on [VERSION]. Please save your work before 6 PM.",
+      "details": "What's new in v22:\n- Faster contract posting\n- New hedge report\n\nContact your administrator with any questions.",
+      "eventDate": "2026-11-15",
+      "showFrom": "2026-11-01T00:00:00Z",
+      "showUntil": "2026-11-15T23:59:00Z",
+      "audience": "All Users",
+      "linkUrl": "https://www.example.com/robo-commodity-365/release-notes",
+      "linkCaption": "Release notes",
+      "environments": ["*"]
+    },
+    {
+      "code": "UPGRADE-REMINDER",
+      "enabled": true,
+      "message": "Your Robo Commodity 365 version [VERSION] is outdated. Your administrator will upgrade it soon.",
+      "audience": "Outdated Robo Version Only"
+    },
+    {
+      "code": "SANDBOX-TEST",
+      "enabled": true,
+      "message": "Test message: the central push feed works in this sandbox.",
+      "environments": ["Robo_test"]
+    }
+  ]
+}
