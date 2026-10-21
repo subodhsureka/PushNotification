@@ -16,7 +16,7 @@
     {
       "code": "UPGRADE-REMINDER",
       "enabled": true,
-      "message": "Your Robo Commodity 365 version [VERSION] is outdated. Your administrator will upgrade it soon.",
+      "message": "Your Robo Commodity 365 version [VERSION] is outdated. Your administrator will upgrade it soon.Contact your administrator",
       "audience": "Outdated Robo Version Only"
     },
     {
